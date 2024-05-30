@@ -1,0 +1,26 @@
+table{
+	   border: opx solid brown;
+	   align: center;
+}
+tr,th{
+	background-color: maroon;
+	font-family: Verdana;
+	font-size: 22px;
+	color: white;
+}
+
+th:hover{
+	background-color: gold;
+	color: black;
+}
+h3{
+	color: maroon;
+	font-weight: bold;
+	text-align: center;
+	font-family: Verdana;
+}
+img,iframe{
+	border-radius: 8px;
+	width: 800px;
+	height:615px;
+}
