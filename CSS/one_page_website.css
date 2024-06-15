@@ -1,0 +1,82 @@
+table{
+	   border: opx solid brown;
+	   text-align: center;
+       position: sticky;
+}
+tr,th{
+	background-color: maroon;
+	font-family: Verdana;
+	font-size: 22px;
+	color: white;
+}
+
+th:hover{
+	background-color: gold;
+	color: black;
+}
+h3{
+	color: maroon;
+	font-weight: bold;
+	text-align: center;
+	font-family: Verdana;
+}
+img,iframe{
+	border-radius: 8px;
+	width: 800px;
+	height:615px;
+}
+.sec_3 h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#cont_me h2{
+    font-family: Lucida Console;
+    color: maroon;
+}
+#cont_me{
+    width: 700px;
+    height: 450px;
+    border: 1px solid rgb(142, 198, 220);
+    background-color: rgb(150, 159, 163);
+    padding: 50px;
+    border-radius: 8px;
+    margin: 20px;
+}
+p{
+    font-family: Lucida Console;
+    font-size: medium;
+    font-weight: 900;
+    color: #000;
+}
+label{
+    font-size: medium;
+    font-family: Lucida Console;
+    color: maroon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.rsvp{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type="submit"]{
+    width: 80%;
+    margin: 8px 0;
+    display: inline-block;
+    background-color: #e1e7e1;
+    color: rgb(195, 12, 12);
+    padding: 14px 20px;
+    font-size: medium;
+    border: #888888;
+    border-radius: 5px;
+    font-weight: bold;
+    box-shadow: 3px 5px #888888;
+    color: rgb(97, 33, 6);
+    cursor: pointer;
+
+}
+
